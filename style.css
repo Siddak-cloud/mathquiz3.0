@@ -1,0 +1,50 @@
+.player_1 {
+    color: white;
+    text-align: center;
+}
+#login {
+    padding-bottom: 30px;
+}
+body {
+    text-align: center;
+    background-image: url('https://c8.alamy.com/comp/T04JRX/quiz-speech-bubbles-banner-for-social-networks-in-neon-light-style-on-dark-background-bright-vector-neon-illustration-for-live-game-show-and-question-T04JRX.jpg');
+}
+.button {
+    margin-top: 20px;
+    background-color: white;
+    color: black;
+}
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #aa4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+#number_1 {
+    background: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#number_2 {
+    background: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.label_1 {
+    color: white;
+}
+.label_2 {
+    color: white;
+}
+#h4_2 {
+    color: white;
+}
+h1 {
+    color: white;
+}
